@@ -61,13 +61,13 @@ These clusters help identify:
 ---
 
 ## 📜 Sample Output
---- text
+
 Cluster 0: High Income - High Spending
 Cluster 1: Low Income - Low Spending
 Cluster 2: Young Average Spenders
 Cluster 3: Mature High Spenders
 Cluster 4: Low Income - Average SpendinG
----
+
 🌐 Connect with Me
 
 LinkedIn:-https://www.linkedin.com/in/arundhati-hiremath-10b327378
